@@ -1,1 +1,3 @@
-* linguist-language=Unity
+*.aspx linguist-language=Unity
+*.cs linguist-language=Unity
+*.meta linguist-language=Unity
